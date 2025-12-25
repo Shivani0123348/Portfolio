@@ -1,0 +1,1 @@
+{ "compilerOptions": { "target": "es5", "module": "none", "outFile": "./dist/index.js", "strict": false } }
